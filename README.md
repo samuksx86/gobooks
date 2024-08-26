@@ -1,6 +1,6 @@
 ## Instalação
 
-1. Para garantir a funcionalidade da aplicação, intale o GO
+1. Para garantir a funcionalidade da aplicação, instale o GO
    [https://go.dev/](https://go.dev/)
 
 ## Uso (API)
